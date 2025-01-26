@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 requests==2.31.0
 reportlab==3.6.12
+=======
+streamlit
+requests
+>>>>>>> ace76db0112da7edcb11d72c3419547c8453e5b3
